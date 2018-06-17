@@ -1,0 +1,74 @@
+@CHARSET "ISO-8859-1";
+body {
+	background-color: lightblue;
+	color: darkblue;
+	margin-top: 20;
+	font-family: Courier New, monospace;
+	text-align: center;
+	font-size: 24px;
+}
+
+.button {
+    background-color: #3a6cc0;
+    border: none;
+    color: white;
+    padding: 30px 64px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 32px;
+    margin: 8px 4px;
+    cursor: pointer;
+    border-radius: 24px;
+}
+
+.button1 {font-size: 24px;
+          padding: 16px 24px;
+          }
+          
+.button2 {font-size: 24px;
+          padding: 8px 12px;
+          background-color: #2884d2;
+          }
+.button3 {font-size: 32px;
+          padding: 24px 36px;
+          background-color: #282097;
+          }
+
+
+h1 {
+	font-family: inherit;
+	color : darkblue;
+	font-size: 64px;
+	
+}
+h2 {
+	font-family: blue;
+	font-size : 48px;
+}
+td {
+	margin-bottom: 5px;
+	font-size: 20;
+}
+form {	
+	font-family: inherit;	
+}
+
+input {
+	font-family: inherit;
+	font-size: 40;
+	background-color: white;
+	color: black;
+	padding: 10px;
+	border: 10px;
+	margin: 10px;
+}
+select {
+	font-family: inherit;
+	font-size: 40;
+	background-color: white;
+	color: black;
+	padding: 10px;
+	border: 10px;
+	margin: 10px;
+}
